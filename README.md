@@ -1,1 +1,1 @@
-# front_project
+# frontend_project
